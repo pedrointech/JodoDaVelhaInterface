@@ -25,7 +25,7 @@ Swing: Biblioteca gráfica utilizada para a construção da interface do usuári
 Siga os passos abaixo para clonar e executar o projeto localmente:
 
 ## Clone o repositório:
-Git clone: https://github.com/seu-usuario/jogo-da-velha.git
+Git clone: https://github.com/YP3DROY/JodoDaVelhaInterface
 
 ## Como Usar
 Abra o jogo e clique nos quadrados para jogar.
