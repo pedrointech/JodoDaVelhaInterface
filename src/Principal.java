@@ -13,7 +13,7 @@ public class Principal {
     public Principal() {
         jogo = new JogoDaVelha();
 
-        frame = new JFrame("Jogo da Velha - GitHub: yp3droy | LinkedIn: linkedin.com/in/ph-dev/");
+        frame = new JFrame("Jogo da Velha - GitHub: yp3droy | LinkedIn: linkedin.com/in/pedrointech/");
         frame.setLayout(new BorderLayout());
         frame.setSize(600, 600);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -104,7 +104,7 @@ public class Principal {
     }
 
     private void atualizarPlacar() {
-        placarLabel.setText("Placar - Jogador x: " + jogo.getPlacarJogador1() + " | Jogador 2: " + jogo.getPlacarJogador2());
+        placarLabel.setText("Placar - Jogador 1: " + jogo.getPlacarJogador1() + " | Jogador 2: " + jogo.getPlacarJogador2());
     }
 
     private void resetarJogo() {
