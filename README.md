@@ -4,7 +4,7 @@
 Este projeto implementa um jogo da velha (tic-tac-toe) em Java, utilizando a biblioteca Swing para criar uma interface gráfica de usuário (GUI). O objetivo é proporcionar uma experiência simples e interativa para dois jogadores, permitindo que joguem partidas de forma amigável, com um placar dinâmico e opção de reiniciar o jogo a qualquer momento.
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ph-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrointech/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohc18/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YP3DROY)
 
